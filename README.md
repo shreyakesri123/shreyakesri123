@@ -1,7 +1,7 @@
 #  Hi 👋, I'm Shreya Kesarwani  
 **A passionate Software Development Engineer || Backend Developer || Java Developer from India**
 
-2024 graduate from Motilal Nehru National Institute of Technology (NIT) Allahabad, passionate about technology and continuous learning in software engineering.
+Graduated from Motilal Nehru National Institute of Technology (NIT) Allahabad, passionate about technology and continuous learning in software engineering.
 
 Email Me 👉 ✉️ **shreyakesri41755@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
